@@ -1,0 +1,7 @@
+Solder Lead to Mindlfex ground, connect to Arduino ground
+
+Solder lead to Mindflex "T" pin, connect to Arduino RX
+
+Download and install the Arduino Brain Library
+
+Use code posted to GitHub as Mindflex-code to view Mindlfex output
